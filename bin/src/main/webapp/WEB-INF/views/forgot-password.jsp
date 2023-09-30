@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Dharmesh General Store | Forgot Password </title>
+	<title>SID Store | Forgot Password </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

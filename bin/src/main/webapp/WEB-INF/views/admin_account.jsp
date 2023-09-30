@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Dharmesh General Store | My Account</title>
+	<title>SID Store | My Account</title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

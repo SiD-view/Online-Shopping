@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Dharmesh General Store | Register </title>
+	<title>SID Store | Register </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

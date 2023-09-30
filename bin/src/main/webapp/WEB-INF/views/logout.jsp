@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Dharmesh General Store | Logout </title>
+	<title>SID Store | Logout </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 	<script src="${pageContext.request.contextPath}/js/backNoWork.js"></script>
 </head>
