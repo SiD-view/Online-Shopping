@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Online Shopping | Page 404 </title>
+	<title>iD-KART | Page 404 </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

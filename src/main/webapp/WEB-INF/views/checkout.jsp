@@ -7,7 +7,7 @@
 <c:if test="${empty email}">
 	<c:redirect url="${pageContext.request.contextPath}/user/sign-in"/>  
 </c:if>
-	<title>Online Shopping | Checkout</title>
+	<title>iD-KART | Checkout</title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

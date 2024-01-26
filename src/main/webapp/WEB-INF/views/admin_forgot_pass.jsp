@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Online shopping| Forgot Password </title>
+	<title>iD-KART| Forgot Password </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

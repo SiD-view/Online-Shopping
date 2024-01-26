@@ -2,7 +2,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8" />
 	<link rel='png' href='/images/favicon.png' type='image/x-png'/>
-	<meta name="keywords" content="Online Shopping" />
+	<meta name="keywords" content="iD-KART" />
 	<script>
 // 	console.log("clearing html storage.");
 	localStorage.clear();

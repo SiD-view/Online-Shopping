@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Online Shopping | Register </title>
+	<title>iD-KART | Register </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

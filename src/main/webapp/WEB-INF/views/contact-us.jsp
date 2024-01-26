@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Online Shopping | Contact </title>
+	<title>iD-KART | Contact </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 	<style type="text/css">
 		
@@ -59,7 +59,7 @@
 							<i class="fas fa-map-marker-alt rounded-circle"></i>
 						</div>
 						<h4 class="font-weight-bold mt-sm-4 mt-3 mb-3">Address</h4>
-						<p style="font-weight: bold;color:black;">Online Shopping
+						<p style="font-weight: bold;color:black;">iD-KART
 							<label style="font-weight: bold;color:black;">Solapur,Maharashtra 413216</label>
 						</p>
 					</div>

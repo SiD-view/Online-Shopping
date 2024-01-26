@@ -46,7 +46,7 @@
 	<!-- copyright -->
 	<div class="copy-right py-3">
 		<div class="container">
-			<p class="text-center text-white">Online Shopping. All rights reserved.</p>
+			<p class="text-center text-white">iD-KART. All rights reserved.</p>
 		</div>
 	</div>
 	<!-- //copyright -->

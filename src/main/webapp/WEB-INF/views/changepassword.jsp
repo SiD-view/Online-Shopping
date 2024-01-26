@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Online Shopping | Change Password </title>
+	<title>iD-KART | Change Password </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

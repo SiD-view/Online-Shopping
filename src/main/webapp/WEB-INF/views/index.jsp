@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Online Shopping | Home </title>
+	<title>iD-KART | Home </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>

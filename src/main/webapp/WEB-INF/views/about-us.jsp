@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Online Shopping| About </title>
+	<title>iD-KART| About </title>
 	<jsp:include page="layouts/header.jsp"></jsp:include>
 </head>
 <body>
@@ -49,7 +49,7 @@
 			<div class="row">
 				<div class="col-lg-6 welcome-left">
 					<h3>About Store</h3>
-					<h4 class="my-sm-3 my-2">Online Shoppingis a low-price  which has many vital ranging products consumed in our everyday  website are distinguished based on their categories, which gives you the hassle-free shopping experience ever with minimum time spent for your shopping.</h4>
+					<h4 class="my-sm-3 my-2">iD-KART is a low-price  which has many vital ranging products consumed in our everyday  website are distinguished based on their categories, which gives you the hassle-free shopping experience ever with minimum time spent for your shopping.</h4>
 				</div>
 				
 				<div class="col-lg-6 welcome-right-top mt-lg-0 mt-sm-5 mt-4">
